@@ -1,0 +1,4 @@
+1.In this project you will learn how to change the image on click or on toggle
+2.We will be using HTML, CSS, JAVASCRIPT.
+3. In HTML we will create div containg a image and a paragraph. And give them the ID so they are accessible for us in javascript
+4.Learning goals :- a.) How to create array and store images in Array b.) How to bind click to img element c.) How to manipulate HTML
